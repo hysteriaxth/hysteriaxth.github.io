@@ -62,7 +62,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d1bf9787e9de3805348c                          #生成的clientID
   clientSecret: 1a39c63acf864e91739ee01f5056386885877e6d  #生成的clientSecret
-  repo: hysteriaxth .github.io    #仓库名称
+  repo: hysteriaxth.github.io    #仓库名称
   owner: hysteriaxth    #github用户名
   admin: hysteriaxth
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
