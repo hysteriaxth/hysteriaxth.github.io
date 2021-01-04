@@ -61,7 +61,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d1bf9787e9de3805348c                          #生成的clientID
-  clientSecret: bf89b371e62ec2af9bd0ee6e75b69797707e3898     #生成的clientSecret
+  clientSecret: 1a39c63acf864e91739ee01f5056386885877e6d  #生成的clientSecret
   repo: hysteriaxth .github.io    #仓库名称
   owner: hysteriaxth    #github用户名
   admin: hysteriaxth
